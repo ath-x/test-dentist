@@ -1,0 +1,1 @@
+const a=[{naam:"Tandartspraktijk Wit",tagline:"Stralende lach, gezond gebit.",foto:"download-1768121995693.jpg",field4:0}];export{a as default};

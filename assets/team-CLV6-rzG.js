@@ -1,0 +1,1 @@
+const a=[{naam:"Dr. Visser",rol:"Tandarts",bio:"20 jaar ervaring.",foto:"download-1768121973876.jpg",field5:0}];export{a as default};
